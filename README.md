@@ -1,1 +1,1 @@
-# This is my first python program, a game called rock, paper, scissors.
+#  These are mostly practice programs so that I can get better at python. 
